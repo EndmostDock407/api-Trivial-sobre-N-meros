@@ -1,0 +1,23 @@
+{
+  "7": {
+    "categoria": "Cultura general",
+    "curiosidad": "Es considerado un número de la suerte en muchas culturas."
+  },
+  "13": {
+    "categoria": "Superstición",
+    "curiosidad": "Se evita en hoteles y edificios por supersticiones."
+  },
+  "42": {
+    "categoria": "Cultura pop",
+    "curiosidad": "Es la respuesta a la vida, el universo y todo, según Douglas Adams."
+  },
+  "1729": {
+    "categoria": "Matemáticas",
+    "curiosidad": "Es el número de Hardy-Ramanujan, el menor expresable como suma de dos cubos de dos formas distintas."
+  },
+  "1000": {
+    "categoria": "Matemáticas",
+    "curiosidad": "Es un número redondo que representa el milenio, y en notación romana se escribe como 'M'."
+  }
+
+}
